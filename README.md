@@ -1,4 +1,4 @@
-# GrooveSlicer — Beat Slicing, Tempo Map & Quantize
+# GrooveSlicer - Beat Slicing, Tempo Map & Quantize
 
 GrooveSlicer detecta BPM, cria mapa de tempo, alinha a grade e fatia o áudio por compassos/beat. Exporta loops prontos, cliques MIDI e um relatório simples.
 
